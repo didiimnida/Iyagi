@@ -35,4 +35,5 @@ public class MainActivity extends Activity {
         intent.putExtra(getString(R.string.key_name), name);
         startActivity(intent);
     }
+
 }
